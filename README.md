@@ -37,6 +37,10 @@ Cassandra
 PostgreSQL    
 Docker          
 
+
+**Below is the analysis we got for analysis sales data showing the sales over minutes**
+
+
 <img width="1846" height="808" alt="Screenshot 2025-09-21 205628" src="https://github.com/user-attachments/assets/8dba41f6-3bd6-49ba-a615-b98f0da0d247" />
 
 
