@@ -1,3 +1,4 @@
+<img width="3274" height="1221" alt="Data engineering architecture" src="https://github.com/user-attachments/assets/a241593f-c83e-4d4c-b593-efb2ca6f76c8" />
 # IntraDay Sales
 
 This project demonstrates a complete end-to-end real-time data engineering pipeline. It captures streaming data via Apache Kafka, processes it using Apache Spark, and stores the transformed data in Cassandra for efficient querying. The workflow is orchestrated using Apache Airflow, and Superset is used for real-time data visualization and analytics. All components are fully containerized with Docker, ensuring seamless deployment, scalability, and portability across environments.
