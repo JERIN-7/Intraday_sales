@@ -24,20 +24,16 @@ The project is designed with the following components:
 
 **Superset:** Provides real-time dashboards and visualizations based on the processed data.
 
-    <img width="1536" height="1024" alt="ChatGPT Image Sep 21, 2025, 08_41_26 PM" src="https://github.com/user-attachments/assets/49b190c6-a9ee-4325-b11a-b8eadb85f18f" />
 
-Technolgies Used
-
-Apache Airflow
-Python
-Apache Kafka
-Apache Zookeeper
-Apache Spark
-Apache Superset
-Cassandra
-PostgreSQL
-Docker
-
+Technologies            
+Apache Airflow    
+Python    
+Apache Kafka    
+Apache Zookeeper    
+Apache Spark    
+Cassandra    
+PostgreSQL    
+Docker    
 
 
 
