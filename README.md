@@ -25,7 +25,8 @@ The project is designed with the following components:
 **Superset:** Provides real-time dashboards and visualizations based on the processed data.
 
 
-Technologies            
+Technologies   
+  
 Apache Airflow    
 Python    
 Apache Kafka    
